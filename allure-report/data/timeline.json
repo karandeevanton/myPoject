@@ -1,0 +1,20 @@
+{
+  "hosts" : [ {
+    "title" : "AntonPC",
+    "threads" : [ {
+      "title" : "18484@AntonPC.main(1)",
+      "testCases" : [ {
+        "uid" : "fe1fb15ed94651e7",
+        "name" : "firstSimpleTest",
+        "title" : "First simple test",
+        "time" : {
+          "start" : 1497488375380,
+          "stop" : 1497488375385,
+          "duration" : 5
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}

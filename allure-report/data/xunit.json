@@ -1,0 +1,38 @@
+{
+  "time" : {
+    "start" : 1497488375380,
+    "stop" : 1497488375385,
+    "duration" : 5
+  },
+  "testSuites" : [ {
+    "uid" : "a2e510fefbf90646",
+    "name" : "com.stackoverflow.stackoverflowTest",
+    "title" : "Stackoverflow test",
+    "time" : {
+      "start" : 1497488375380,
+      "stop" : 1497488375385,
+      "duration" : 5
+    },
+    "statistic" : {
+      "total" : 1,
+      "passed" : 1,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "fe1fb15ed94651e7",
+      "name" : "firstSimpleTest",
+      "title" : "First simple test",
+      "time" : {
+        "start" : 1497488375380,
+        "stop" : 1497488375385,
+        "duration" : 5
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  } ]
+}

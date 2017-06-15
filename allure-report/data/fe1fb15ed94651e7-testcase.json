@@ -1,0 +1,47 @@
+{
+  "uid" : "fe1fb15ed94651e7",
+  "name" : "firstSimpleTest",
+  "title" : "First simple test",
+  "time" : {
+    "start" : 1497488375380,
+    "stop" : 1497488375385,
+    "duration" : 5
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "a2e510fefbf90646",
+    "name" : "com.stackoverflow.stackoverflowTest",
+    "title" : "Stackoverflow test"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-name",
+    "value" : "com.stackoverflow.stackoverflowTest"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "host",
+    "value" : "AntonPC"
+  }, {
+    "name" : "thread",
+    "value" : "18484@AntonPC.main(1)"
+  } ],
+  "parameters" : [ ]
+}
